@@ -1,0 +1,15 @@
+<table class="table table-hover">
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Price</th>
+    <th>Image</th>
+  </tr>
+    <tr   *ngFor="let product of service.list">
+      <td (click)="SelectProduct(product)" >{{product.Id}}</td>
+      <td (click)="SelectProduct(product)" >{{product.Name}}</td>
+      <td (click)="SelectProduct(product)" >{{product.Price}}</td>
+      <td (click)="SelectProduct(product)" ><img [src]="product.Thumbnail" ></td>
+      <td><button (click)="deleteProduct(product)"  class="btn btn-sm btn-outline-danger"><i class="fas fa-trash-alt"></i></button></td>
+    </tr>
+  </table>

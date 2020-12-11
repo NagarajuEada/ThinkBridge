@@ -1,0 +1,23 @@
+<div class="container">
+    <div class="row">
+        <button (click)="backClicked() " class="btn btn-primary">
+            Go Back
+        </button>
+    </div>
+    <div class="row" style="margin-top: 10%;">
+        <div class="col-xs-4 item-photo">
+            <img style="max-width:500px;max-height: 500px;" [src]="service.selectedProduct.ProductImage" />
+        </div>
+        <div class="col-xs-5" style="border:0px solid gray;margin-left: 50px;">
+            <h5 class="title-price">Name</h5>
+            <h3>{{service.selectedProduct.Name}}</h3>
+            <h5 class="title-price">Price</h5>
+            <h3 style="margin-top:0px;">₹{{service.selectedProduct.Price}}</h3>
+            <div class="col-xs-9">
+                <b>Description</b>
+                <div style="width:100%;border-top:1px solid silver">
+                    {{service.selectedProduct.Description}}
+                </div>
+            </div>
+        </div>
+    </div>
