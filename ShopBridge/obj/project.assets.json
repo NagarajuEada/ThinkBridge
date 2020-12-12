@@ -1269,9 +1269,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NAGARAJU\\Downloads\\ShopBridge-master\\ShopBridge\\ShopBridge.csproj",
-      "projectName": "ShopBridge",
-      "projectPath": "C:\\Users\\NAGARAJU\\Downloads\\ShopBridge-master\\ShopBridge\\ShopBridge.csproj",
+      "projectUniqueName": "C:\\Users\\NAGARAJU\\Downloads\\ShopBridge-master\\ShopBridge\\E-commerce.csproj",
+      "projectName": "E-commerce",
+      "projectPath": "C:\\Users\\NAGARAJU\\Downloads\\ShopBridge-master\\ShopBridge\\E-commerce.csproj",
       "packagesPath": "C:\\Users\\NAGARAJU\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\NAGARAJU\\Downloads\\ShopBridge-master\\ShopBridge\\obj\\",
       "projectStyle": "PackageReference",
