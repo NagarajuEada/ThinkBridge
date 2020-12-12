@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NAGARAJU\\Downloads\\ShopBridge-master\\ShopBridge\\E-commerce.csproj": {}
+    "C:\\Users\\NAGARAJU\\Downloads\\ShopBridge-master\\E-commerce-api\\E-commerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NAGARAJU\\Downloads\\ShopBridge-master\\ShopBridge\\E-commerce.csproj": {
+    "C:\\Users\\NAGARAJU\\Downloads\\ShopBridge-master\\E-commerce-api\\E-commerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NAGARAJU\\Downloads\\ShopBridge-master\\ShopBridge\\E-commerce.csproj",
+        "projectUniqueName": "C:\\Users\\NAGARAJU\\Downloads\\ShopBridge-master\\E-commerce-api\\E-commerce.csproj",
         "projectName": "E-commerce",
-        "projectPath": "C:\\Users\\NAGARAJU\\Downloads\\ShopBridge-master\\ShopBridge\\E-commerce.csproj",
+        "projectPath": "C:\\Users\\NAGARAJU\\Downloads\\ShopBridge-master\\E-commerce-api\\E-commerce.csproj",
         "packagesPath": "C:\\Users\\NAGARAJU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NAGARAJU\\Downloads\\ShopBridge-master\\ShopBridge\\obj\\",
+        "outputPath": "C:\\Users\\NAGARAJU\\Downloads\\ShopBridge-master\\E-commerce-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
